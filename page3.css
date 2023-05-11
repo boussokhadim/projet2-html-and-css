@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+img{
+    height: 200px;
+    width: 400px;
+    padding: 10px; 
+    margin-left: 400px;
+    position: center;
+}
+p{
+    text-align: center;
+    color:#0C5E69;
+   font-size:20px ;
+   font-weight: bolder;
+}
+#valide{
+    
+   
+    color: white;
+    background-color: #0C5E69;
+  
+   font-size: 30px;
+   height: 400%;
+   width: 500px;
+ padding-left: 40px;
+ margin-left: 400px;
+ 
+  
+
+}
+h3, h4{
+    
+        width: 500px;
+        margin: auto;
+        border: 1px solid black;
+        height: 45px;
+    
+    
+}
