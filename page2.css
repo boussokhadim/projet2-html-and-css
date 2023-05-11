@@ -16,7 +16,7 @@ img{
 p{
     text-align: center;
     color:#0C5E69;
-   font-size:30px ;
+   font-size:20px ;
    font-weight: bolder;
 }
 #valide{
@@ -34,17 +34,12 @@ p{
   
 
 }
-/* form{
+h3, h4{
     
-    padding-left: 40px;
-    margin-left: 400px;
-    font-size: 20px;
-   height: 100%;
+        width: 500px;
+        margin: auto;
+        border: 1px solid black;
+        height: 45px;
     
-} */
-.intro{
-    width: 500px;
-    margin: auto;
-    border: 1px solid black;
-    height: 45px;
+    
 }
